@@ -1,0 +1,238 @@
+|THÁO|:THẢO
+|HUẾU|:HIẾU
+|TƯỐNG|:TƯỞNG
+|QUỶNH|:QUỲNH
+|HUỶNH|HUÝNH|HỦ YNH|HU YNH|:HUỲNH
+|THANG|THÁNG|:THẮNG
+|PHƯỘNG|:PHƯỢNG
+|TR UNG|:TRUNG
+|HẾN|:HIỀN
+|L ÂM|:LÂM
+|XU ẬN|XU ÂN|:XUÂN
+|TIEN|TIẾN
+|ĐỆT|ĐỊT|ĐÁT|:ĐẠT
+|QUÂÊ|:QUẾ
+|CHỊ|:CHI
+|NGọọ|:NGỌCÁNG
+|KIÊU|:KIỀU
+|MỲ|MỶ|:MỸ
+|PHỦ|:PHÚ
+|HÒÀNG|:HOÀNG
+|THẢNH|:THÀNH
+|BÍCHN|:BÍCH
+|HUÊN|HUYÊN|:HUYỀN
+|SỌNG|:SONG
+|HỒE|:HÒE
+|ĐÌNH N|:ĐÌNH NGỌC
+|ĐỐTTP|:ĐỖ THỊ
+|NGỌTTỊ|:NGÔ THỊ
+|HƯỚNG GIANG|:HƯƠNG GIANG
+|CHI ÊN|:CHIẾN
+|THẾNH|:THỊ KIM
+|QUỸ|:QUÝ
+|HÁI|:HẢI
+|PHỌNG|:PHONG
+|VÀN|:VĂN
+|VỦ|VÚ|:VŨ
+|THÀNH HUYỀN|:THANH HUYỀN
+|DUYGIANG|:DUY GIANG
+|TU TU|:TUYẾT
+|TUYẾ|:TUYẾT
+|CỘNG QUYỀN|:CÔNG QUYỀN
+|HOÀNGMAMMHOỚC|:HOÀNG MINH PHƯƠNG
+|THỤ HƯỜNG|:THU HƯỜNG
+|HƯƠNG QU|:HƯƠNG QUỲNH
+|THỦY TRANG|:THÙY TRANG
+|HANG|H ẰNG|:HẰNG
+|HẢI YÊN|:HẢI YẾN
+|THÀNH HUYỀN|:THANH HUYỀN
+|THANH TỈNH|:THANH TĨNH
+|TÔ|TỔ|:TỐ
+|TRƯỐNG|:TRƯỜNG
+|HẢ|:HÀ
+|DÂNH|:DANH
+|KHẮNG|:KHANG
+|TựÚ|TH|TTỊ|T1Ị|DÀ|thẤ|T1Ị|TRỌ|THÚ|D|T1n|HỊ|TĨU|I1H|:THỊ
+|THỊHHI|:THỊ HẢI
+|LUYÊN|:LUYẾN
+|ĐỘNG|:ĐÔNG
+|ANHI|:ANH
+|THÀNH BÌNH|:THANH BÌNH
+|L HIẾU|:LÝ HIẾUỊ
+|TUÂN KIỆT|:TUẤN KIỆT
+|HẢI YÊN|: HẢI YẾN
+|NỐ|NƠ|Nổ|:NỞ
+|NHƯỸ|:NHƯ Ý
+|DẠNH|:DANH
+|THU HIẾN|:THU HIỀN
+|HIANH|:THANH
+|TỸ|TY|:TÝ
+|ĐUY|:DUY
+|TRỰNG|:TRUNG
+|KH ÁNH|:KHÁNH
+|THẮN|:THẮNG
+|Ê|LE|LR|LÌ|LL|:LÊ
+|LẸ|:LỆ
+|XI|:ÁI
+|THÊ|:THẾ
+|THI GÁI|:THỊ GÁI
+|KIÊU ANH|:KIỀU ANH
+|HUYỀ|:HUYỀN
+|BÁO|:BẢO
+|NHƯI|:NHƯ
+|HOẶNG|:HOÀNG
+|THỊNGUYỆT|:THỊ NGUYỆT
+|HÂU|:HẬU
+|HÀI|:HẢI
+|NHÂT|:NHẬT
+|THIMMINH|:THỊ MINH
+|HÀNG|:HẰNG
+|TừNG GXANG|:TRƯỜNG GIANG
+|HIẾP|:HIỆP
+|ĐIÊ|:ĐIỂN
+|HÔNG|HỘNG|:HỒNG
+|THẤ|:THU
+|ĐIÊU|:ĐIỀU
+|TIỀN|:TIÊN
+|PHƯỘNG LINH|:PHƯƠNG LINH
+|CỘNG MINH|:CÔNG MINH
+|HỚU|:HỮU
+|THI THẢO|:THỊ THẢO
+|ĐŨNG|:DŨNG
+|SỌN NY|:SON NY
+|XUÂN TRƯƠNG|:XUÂN TRƯỜNG
+|NGUYỄN|:NGUYÊN
+|NHƯT|:NHỰT
+|CẤM|:CẨM
+|HUYÊN TRANG|:HUYỀN TRANG
+|CHI CÔNG|:CHÍ CÔNG
+|PHỊ|:PHI
+|TRỘNG|:TRỌNG
+|HỒÊ|:HÒE
+|THIẾ|:THẾ
+|PHƯỘNG THẢO|:PHƯƠNG THẢO
+|HẢI ĐẶNG|:HẢI ĐĂNG
+|THU THÙY|:THU THỦY
+HÒÀI|:HOÀI
+|ĐÁSẮC|:BÁ SẮC
+|KIM PHƯỘNG|:PHƯỢNG
+|HƯỐNG|:HƯỚNG
+|QUYỄN QuYê|: QUYÊN QUYÊN
+|KIMCH|:KIM CHI
+|THỊ NIÊN|:THỊ LIÊN
+|QUANH-TRANG|:QUỲNH-TRANG
+|DỶ-LY
+|Lrng|IILH|:LINH
+|THẢNH DANH|:THÀNH DANH
+|quóc|QUỐO|quớc|:QUỐC
+|KIM THỊ|:KIM THI
+|XUẬN|:XUÂN
+|VẠN TUẤN|:VĂN TUẤN
+|LÃ|LỄ
+|DẠNH|DANH
+|HẠI|:HẢI
+|-BO--EN|BẢO-YỄN|:BẢO-YẾN
+|THỤ|:THU
+|NHƯ Ỹ|:NHƯ Ý
+|DIÊM|:DIỄM
+|DỄNG|:DŨNG
+|TIÊN ĐậT|:TIẾN ĐẠT
+|DÌNH|:ĐÌNH
+|THOU|:HỮU
+|HOÀNGMMNHPHƯƠNG|:HOÀNG MINH PHƯƠNG
+|DIỆU MỲ|: DIỆU MY
+|BÀO YẾN|:BẢO YẾN
+|MỲ DUNG|:MỸ DUNG
+|HOÀ THỤ|:HOÀI THU
+|HƯỘNG|:HƯƠNG
+|THÀNH BÌNH|:THANH BÌNH
+|GẠO|:CAO
+|Động|:ĐẶNG
+|THỊMMỲ|:THỊ MỸ
+|THIMMNH|:THỊ MINH
+|TÓ|:TỐ
+|QUẢNG TRUNG|:QUANG TRUNG
+|PHẢN|:PHẤN
+|NHƯI|:NHƯ
+|TÔNG|:HỒNG
+|MYÀN|:HUYỀN
+|TẦNG|:TÙNG
+|VẤN TUẤN|:VĂN TUẤN
+|NHỰI|:NHỰT
+|NHẠT|:NHẬT
+|HUYỆN|HUYỀN
+|THÚY DUNG|:THÙY DUNG
+|CHI CôNG|:CHÍ CôNG
+|CỘNG|:CÔNG
+|THẢI|:THÁI
+|THANH HAI|:THANH HẢI
+|HẦU|:HẬU
+|CUI|QUÍ
+|HẠ ĐỨC|:HÀ ĐỨC
+|A1|ÁI
+|au YNH|QUỲNH
+|TẬ|TẠ
+|THỊ-THẦNH|THỊ-THÀNH
+|H ẲNg|:HẰNG
+|THỊ-MA I|:THỊ-MAI
+|PHƯƠ NG|P HƯỘNG|: PHƯƠNG
+|THỊ TỈNH|THỊ TĨNH
+|THỊ-HÙYNH-TIẾP|:THỊ-HUỲNH-TIẾP
+|DDYÊN|DUYỄN|:DUYÊN
+|ĐÚC|:ĐỨC
+|NGẠ|:NGA
+|DỰY|:DUY
+|ĐẶ NG|:ĐẶNG
+|TŨ|:TÚ
+|THÍ|:THẾ
+|VƠ|:VŨ
+|MANH|:MẠNH
+|DỦNG|:DŨNG
+|VẤN MINH|:VĂN MINH
+|LỘI|:LỢI
+|MẢN|:MẪN
+|MíNH|:MINH
+|KHỐI|:KHỞI
+|ĐAI|:ĐẠI
+|SỲ|:SỸ
+|QUYNH|:QUỲNH
+|HƯU ícH|:HỮU ícH
+|THUỸ|:THÙY
+|TỚ|:TỨ
+|ĐIÊN|:ĐIỀN
+|X UÂN|:XUÂN
+|VUẤN|:TUẤN
+|CƯỚI|:CƯỜNG
+|SỶ|:SỸ
+|BẤY|:BẨY
+|TRÀN|:TOÀN
+|THUỸ|:THỦY
+|THẾP|:THÉP
+|VÂN VUI|:VĂN VUI
+|VẤN NHẬT|:VĂN NHẬT
+|mức|:ĐỨC
+|TRILU|:TRIỀU
+|KHƯỜNG|:NHƯỜNG
+|VYVNG|VÀN|:VĂN
+|VƯỘNG|:VƯỢNG
+|-BHO-YEN|:BẢO YẾN
+|HỊU HOÀNG|:HỮU HOÀNG
+|N3ÀNGMANHUƠNG|:HOÀNG MAI PHƯƠNG 
+|TÙÙY|:THÙY
+|QUÁNG|:QUANG
+|NGỌCÁNG|: NGỌC ÁNH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

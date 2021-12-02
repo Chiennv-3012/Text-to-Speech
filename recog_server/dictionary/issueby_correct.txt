@@ -1,0 +1,101 @@
+|Nam Đị|đi nh|ỉnh Nam|:Tỉnh Nam Định
+|Th TĨNH|HÃA TĨNH|Đà tĩnh|Hà Bĩnh|TĨNH|PHo TĨNH|HẾM TĨNH|Hà Đĩnh|Tĩnh|Họ Tĩnh|:Tỉnh Hà Tĩnh
+|Tinh Hưng|Huềi THIN|Tỉnh Hưng|Hữn Naan|Hưng Yê|_ĐỐC_C_Tỉnh Hưng|_ĐỐC_CA_Tỉnh Hưng|:Tỉnh Hưng Yên
+|Tỉnh Cà|Cà Mao|CA Mang|Ng Nơu|:Tỉnh Cà Mau
+|NGHỆ AI|NGHIỆ AN|TỈNH NGHỆ|th Nghệ|NGHIỆ AN|Nguy an|:Tỉnh Nghệ An
+|TPHH NỘI|T. Hà|TP HàoNội|H NỘIau|Hà Nôn|Pà Nội|Họ nội|TPHH NỘI|HÀ|H NỘI|CA nội|CA Nộu|Hàn tí|Hà mội|Hò Nội|Hà xội|TỊ Ngi|T Hàanhii|HÀ|TP Hà|TP.Hà Nội|ĐỐ HÀ|: TP. Hà Nội
+|INH ĐÌNH|NHNH BINH|ĐỐC BINH|Ninh Bìn|INH ĐÌNH|INH BÌNH|Binh|: Tỉnh Ninh Bình
+|Thẹnh Hóa|Thanh Hón|Thẹnh Hóa|THÀN HÓA|Thênh Hóa|Thàng hóa|Thán hóa|:Tỉnh Thanh Hóa
+|lảng Nam|Ngu Nam|TUỚNG NAM|. Nam|:Tỉnh Quảng Nam
+|BÀ NẴNG|Đà NỈng|BÀ NẴNG|C NẴNG|THỊ NẴNG|:Đà Nẵng
+|THÒNG|ĐỐ THÒNG|đải Phòng|PHÒNG|NG Phong|tải Phòng|Thí Phòng|:Hải Phòng
+|TỈNH NGHỆ|TỈNH NGHỆ|NGHỆỆ AN|:Tỉnh Nghệ An
+|Phú Yân|Phú|Yân|: Tỉnh Phú Yên
+|Bắc Ni|bon ninh|Tỉnh Bắc|T.BẮC|Bết ninh|Bắc Nin1|:Tỉnh Bắc Ninh
+|Đa Nông|Đăk Nộtg|Đà Nông|ĐKH_Nông|_Tỉnh ĐKH_Nông|:Tỉnh Đắk Nông
+|Hải dưương|Hà Dương|Hải đhương|Hả Dương|:Tỉnh Hải Dương
+|HÁNH_HÒA|ỐC HÁNH_HÒA|C HÁNH_HÒA|:Tỉnh Khánh Hòa
+|THÀN HÓA|Thênh Hóa|Thàng hóa|THỊNG HÓA|Thanh Hón|THANG HÓA|NHà 1hú0|:Tỉnh Thanh Hóa
+|GuyYÊN QUANG|:Tỉnh Tuyên Quang
+|QUẢNG TR|:Tỉnh Quảng Trị
+|T._Quảng|19 T._Quảng|:Tỉnh Quảng Bình
+|TF Huế|T T.T.Huế|TỈN T.T-Huế|:TT Huế
+|Bình huận|nhản Thuận|_ĐỐC Thuận|KĨ Thuyn|:Tỉnh Bình Thuận
+|Thinh bình|Thá bình|Thái Fình|ái Bình|ái 1120|Thái hình|bình N12002|:Tỉnh Thái Bình
+|nam lăk|Đăp lắk|Đăk Lă|păk lăk|nam lăk|Đăk Lă|Đăkllăk|Năk lăk|nh- Đăk_Lă|:Tỉnh Đắk Lắk
+|V. Tầu|V. Tằu|Bà_rịn-Vũng_tà|Bà_rịa-Vũng_tà|BÊ Rịa-VTàu|C4_nămRị-Vũng Tâu|. Tàu|Bh rịa-Vtàu|Vũng tàu|Vũng tà|:Tỉnh Bà Rịa-Vũng Tàu
+|on an|Tong An|-2 an|Loàg an|nh Long|:Tỉnh Long An
+|Tăt ninh|ay Ninh|ây Ninh|ay Ninh|ĐỐC Ninh|Tây hinh|:Tỉnh Tây Ninh
+|ĐỐC Thuân|Bình huận|ĐỐC thuân|Mĩnh Thuận|:Tỉnh Bình Thuận
+|am đồng|đông|:Tỉnh Lâm Đồng
+|Tien Giang|Tiền Gian|Thền Giang|:Tỉnh Tiền Giang
+|nh Phước|inh Phước|:Tỉnh Bình Phước
+|inh Long|:Tỉnh Vĩnh Long
+|Thunn Thán|:Tỉnh Ninh Thuận
+|ĩnh phúc|T_uĩnh phúc|:Tỉnh Vĩnh Phúc
+|Hến Tre|:Tỉnh Bến Tre
+|H Vĩnh_Lo|:Tỉnh Vĩnh Long
+|ỉinh định|Hònh định|:Tỉnh Bình Định
+|Hòa mănh|200- Bình|:Tỉnh Hòa Bình
+|Tềền Giang|Căm 20n|:Tỉnh Tiền Giang
+|ení Minh|TP nắc_K220202|ngm 200h|23m 2001|Nhm 202|TP nhc_H22020|cín Minh|. Hồ_Chí_Minh|HồCChí_Mi nh|TP Phồn_Chinh|:TP. Hồ Chí Minh
+|2Hà Tây|:Tỉnh Hà Tây
+|rà Vinh|:Tỉnh Trà Vinh
+|ông zọ0|T/tâm_đồng|:Tỉnh Lâm Đồng
+|Quan Ngãi|Huãi ĐỐC|:Tỉnh Quảng Ngãi
+|nhoung gnam|Tỉnh uuảngnhmm|Q. Nam|:Tỉnh Quảng Nam
+|CÍNHYÊN BÁI|:Tỉnh Yên Bái
+|KIÊN_GIANG|IÊN GIANG|IÊN GIANG|:Tỉnh Kiên Giang
+|TỈNH BẠC_L_ỄU|TỈNH BẠC_HIU|:Tỉnh Bạc Liêu
+|Bình,|:Bình Dương
+|Tháp|Tông Tháp|Đểng Tháp|:Đồng Tháp
+|Đồng Nại|:Đồng Nai
+|Cao hằng|:Tỉnh Cao Bằng
+|Ch ngu|LÊN GIANG|mem Giang|:Tỉnh Kiên Giang
+|tây Hà|:Tỉnh Hà Tây
+|Hà am|:Tỉnh Hà Nam
+|TYọn H7áng|HI NG|2e 2enh|:Tiền Giang
+|hái Nguyên|:Thái Nguyên
+|Lạng năm|:Tỉnh Lạng Sơn
+|AN GI|:Tỉnh An Giang
+|QUẢNG NHNH|:Tỉnh Quảng Ninh
+|KKUYỀN QUANG|THUNG QUẢNG|:Tỉnh Tuyên Quang
+|ĐỐC_CA Thịnh|:Hà Tĩnh
+|Sơn La.|:Sơn La
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
