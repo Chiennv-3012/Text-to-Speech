@@ -1,0 +1,2 @@
+detect_server/CRAFT/weights/craft_mlt_25k.pth
+recog_server/recog/model/best_accuracy.pth
