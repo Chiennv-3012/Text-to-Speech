@@ -51,8 +51,8 @@ def batch_process(data):
         file_like = io.BytesIO(base64.b64decode(base64_image))
                 
         input_image = Image.open(file_like)
-        if not is_grey_scale(input_image):
-            input_image = input_image.convert("L")
+        # if not is_grey_scale(input_image):
+        input_image = input_image.convert("L")
 
         text_bounds = data['text_bounds'][:-1].split(',')
         int_text_bounds = [int(numeric_string) for numeric_string in text_bounds]

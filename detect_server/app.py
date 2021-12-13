@@ -1,6 +1,6 @@
 from flask import Flask, flash, request, redirect, url_for, render_template, jsonify
 import urllib.request
-import os
+import os, shutil
 from werkzeug.utils import secure_filename
 from CRAFT import contour
 import cv2
@@ -63,10 +63,22 @@ def upload_image():
         response = requests.post(test_url, data=json.dumps(jsonRequest), headers=headers)
         textToRead = json.loads(response.text)['words']
         tts = gTTS(text=textToRead, lang='vi')
-        tts.save(os.path.join(app.config['AUDIO_FOLDER'], "convertedText.mp3"))
+        # stringmp3 = ''.join([filename, 'convertedText.mp3'])
+        
+        tts.save(os.path.join(app.config['AUDIO_FOLDER'], 'convertedText.mp3'))
 
         # for playing
-        playsound(os.path.join(app.config['AUDIO_FOLDER'], "convertedText.mp3"))
+        playsound(os.path.join(app.config['AUDIO_FOLDER'], 'convertedText.mp3'))
+
+        for filename in os.listdir('static/audio'):
+            file_path = os.path.join('static/audio', filename)
+            try:
+                if os.path.isfile(file_path) or os.path.islink(file_path):
+                    os.unlink(file_path)
+                elif os.path.isdir(file_path):
+                    shutil.rmtree(file_path)
+            except Exception as e:
+                print('Failed to delete %s. Reason: %s' % (file_path, e))
 
         flash('Image successfully uploaded and displayed below')        
         return render_template('index.html', filename=filename)
