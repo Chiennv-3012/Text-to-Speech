@@ -78,7 +78,7 @@ def batch_process(data):
 
         for i, i_row in enumerate(re_order):
 
-            text_crop = input_image.crop((i_row[0], i_row[1], i_row[2], i_row[3]))
+            text_crop = input_image.crop((i_row[0]-5, i_row[1]-5, i_row[2]+5, i_row[3]+5))
             if text_crop is None :
                 continue
             w_crop, h_crop = text_crop.size    
